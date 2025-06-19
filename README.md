@@ -4,16 +4,16 @@
 
   
 ## Table of Contents
-- [Project Overview](https://github.com/Aasdeep/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#project-overview)
-- [Problem Statement](https://github.com/Aasdeep/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#problem-statement)
-- [Task](https://github.com/Aasdeep/Consumer-Goods-Insights-and-Adhoc-queries/edit/main/README.md#consumer-goods-insights-and-adhoc-queries)
-- [Tool Used](https://github.com/Aasdeep/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/README.md#tool-used)
-- [Quick Introduction](https://github.com/Aasdeep/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/README.md#quick-introduction)
+- [Project Overview](#Project-Overview)
+- [Problem Statement](#Problem-Statement)
+- [Task](#Task)
+- [Tool Used](#tool-used)
+- [Quick Introduction](#quick-introduction)
   - Product
   - Customer
   - Region, Market
   - Data Model
-- [Adhoc Questions](https://github.com/Aasdeep/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/README.md#ad-hoc-questions)
+- [Adhoc Questions](#ad-hoc-questions)
 
 ## Project Overview:
 
